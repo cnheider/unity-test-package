@@ -9,7 +9,6 @@
 		"type": "git",
 		"url": "git+https://github.com/cnheider/unity-test-package.git"
 	},
-	"src": "Assets/UnityTestPackage",
 	"author": "cnheider <mrnaah@gmail.com> (https://github.com/cnheider)",
 	"dependencies": {
 	}
