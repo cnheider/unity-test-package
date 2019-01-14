@@ -1,9 +1,9 @@
 {
     "name": "UnityTestPackage.Tests",
-    "references": [
-        ""
+    "references": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [
         "Editor"
     ],
