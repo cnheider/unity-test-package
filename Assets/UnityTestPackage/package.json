@@ -1,0 +1,16 @@
+{
+	"name": "com.cnheider.unity-test-package",
+	"displayName": "Unity Test Package",
+	"description": "",
+	"version": "0.1.0",
+	"unity": "2018.3",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/cnheider/unity-test-package.git"
+	},
+	"src": "Assets/UnityTestPackage",
+	"author": "cnheider <mrnaah@gmail.com> (https://github.com/cnheider)",
+	"dependencies": {
+	}
+}
