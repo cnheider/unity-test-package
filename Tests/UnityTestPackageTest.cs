@@ -2,9 +2,9 @@
 using NUnit.Framework;
 using UnityEngine.TestTools;
 
-namespace Common.Tests
+namespace Tests
 {
-    public class NewTestScript
+    public class UnityTestPackageTest
     {
         // A Test behaves as an ordinary method
         [Test]
