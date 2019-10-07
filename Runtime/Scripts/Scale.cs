@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Runtime.Scripts {
+namespace unity_test_package.Runtime.Scripts {
   /// <summary>
   ///
   /// </summary>

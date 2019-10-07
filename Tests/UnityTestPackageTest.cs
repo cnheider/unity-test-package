@@ -2,7 +2,7 @@
 using NUnit.Framework;
 using UnityEngine.TestTools;
 
-namespace Tests
+namespace unity_test_package.Tests
 {
     public class UnityTestPackageTest
     {
